@@ -7,3 +7,6 @@
 [submodule "Stock_Market_Prices_Prediction"]
 	path = Stock_Market_Prices_Prediction
 	url = https://github.com/LOKESHGOPAL21/Stock_Market_Prices_Prediction.git
+[submodule "Time-Series-Forecasting-Using-Yahoo-Finance-Data.git"]
+	path = Time-Series-Forecasting-Using-Yahoo-Finance-Data.git
+	url = https://github.com/LOKESHGOPAL21/Time-Series-Forecasting-Using-Yahoo-Finance-Data.git
