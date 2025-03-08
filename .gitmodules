@@ -4,3 +4,6 @@
 [submodule "MovieRecommendationSystem"]
 	path = MovieRecommendationSystem
 	url = https://github.com/LOKESHGOPAL21/MovieRecommendationSystem.git
+[submodule "Stock_Market_Prices_Prediction"]
+	path = Stock_Market_Prices_Prediction
+	url = https://github.com/LOKESHGOPAL21/Stock_Market_Prices_Prediction.git
